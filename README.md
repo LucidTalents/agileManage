@@ -3,7 +3,7 @@ The goal is to automate the process completed after sprint planning. This involv
 
 # Planning
 ## Objective
-![Overview](pics/overview.png)
+![Overview](./pics/overview.png)
 
 * Stage 2 = output of sprint goes into input of sprint retrospective to get metrics?
 ## Constraints
@@ -26,7 +26,7 @@ The goal is to automate the process completed after sprint planning. This involv
 - Output: Prettified graph, easy export/import into management tools
 
 ## Diagram
-![Overview](pics/diagram.png)
+![Diagram](./pics/diagram.png)
 
 ## Algorithm Pseudo-Code
 1. Get inputs 
