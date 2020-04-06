@@ -26,7 +26,7 @@ The goal is to automate the process completed after sprint planning. This involv
 - Output: Prettified graph, easy export/import into management tools
 
 ## Diagram
-![Diagram](pics/diagram.PNG)
+![Diagram](pics/diagram.PNG) 
 
 ## Algorithm Pseudo-Code
 1. Get inputs 
