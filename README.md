@@ -3,9 +3,9 @@ The goal is to automate the process completed after sprint planning. This involv
 
 # Planning
 ## Objective
-![Overview](./pics/overview.png)
+![Overview](pics/overview)
 
-* Stage 2 = output of sprint goes into input of sprint retrospective to get metrics?
+**Stage 2 = output of sprint goes into input of sprint retrospective to get metrics?
 ## Constraints
 - Task transition cost – want a person working on a minimum number of tasks per sprint
 - Task options (1 developer to 1 task)
@@ -26,7 +26,7 @@ The goal is to automate the process completed after sprint planning. This involv
 - Output: Prettified graph, easy export/import into management tools
 
 ## Diagram
-![Diagram](./pics/diagram.png)
+![Diagram](pics/diagram)
 
 ## Algorithm Pseudo-Code
 1. Get inputs 
